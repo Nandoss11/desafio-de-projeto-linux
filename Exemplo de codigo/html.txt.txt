@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Fernando SS</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <img src="minion.jpg" alt="minion" class="photo">
+            <h1 id="title">Fernando SS</h1>
+        </header>
+        <section>
+            <header>
+                <img src="htmlcode3.jpg" alt="htmlcode">
+                <h2 class="subtitle">Posts</h2>
+            </header>
+            <article class="post">
+                <header>
+                    <h3 class="post_title">Post #1</h3>
+                    <img src="filhote.jpg" alt="Filhote de cahorro" class="post_image">
+                </header>
+                <p class="post_content">
+                    Filhote <a href="https://github.com/Nandoss11"target="_blank">Preto </a>e <a href="mailto:fernando.s_s@hotmail.com">branco.</a>
+                </p>
+            </article>
+        </section>
+        <footer>
+            <ul class="contacts_list">
+                <li>
+                    <a href="mailto:fernando.s_s@hotmail.com">fernando.s_s@hotmail.com</a>
+                </li>
+                <li>
+                    <a href="https://github.com/Nandoss11"target="_blank">Github</a>
+                </li>
+            </ul>
+        </footer>
+    </body>
+</html>
